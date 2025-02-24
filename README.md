@@ -9,21 +9,29 @@ Explain what software engineering is and discuss its importance in the technolog
 Software engineering is the systematic application of  engineering principles, practices, and methods of engineering towards the designing, development, and maintenance of software. It encompasses designing, developing, testing, deploying, and maintaining software products. 
 
 Its Importance
+
 It enables the creation of reliable, efficient, and scalable software systems which fosters innovation and competitiveness, enabling secure and user-friendly applications that support communication, commerce, entertainment, and healthcare businesses in managing costs and resources effectively. Software engineering not only builds and maintains complex digital solutions but also drives technological advancements and shapes the future of the digital age.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 Development of Programming Languages: The creation of early programming languages like Fortran and C laid the foundation for modern software development, enabling more efficient and structured coding practices.
+
 Establishment of Software Engineering as a Discipline in the 1960s: The term "software engineering" was first coined at a NATO conference to address the growing software crisis, emphasizing the need for engineering principles in software development.
+
 Advent of Structured Programming in the 1970s: This methodology introduced clear, logical control structures and modular design, improving code readability, maintainability, and reliability.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
 Requirements: Gathering and documenting user needs and system requirements.
+
 Design: Creating high-level and detailed designs of the software architecture and user interface.
+
 Implementation: Writing code and building the software according to the design specifications.
+
 Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
+
 Deployment: Releasing the software to users or customers.
+
 Maintenance: Provide ongoing support, updates, and enhancements to the software after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
@@ -39,7 +47,9 @@ Agile works well for dynamic projects where user needs and market conditions may
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Software Developer: is responsible for writing code and implementing software solutions.
+
 Quality Assurance Engineer: works to ensure software quality by designing and executing test plans.
+
 Project Manager: Oversees the planning, execution, and delivery of software projects.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
@@ -51,14 +61,20 @@ Version Control Systems (VCS): Git and Subversion (SVN) are required to track ch
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 Challenges
+
 Requirements can be changed during the development phase, causing scope creep and project delay.
+
 The urgency to meet software product deadlines can cause hurried development and reduced quality.
+
 Technical Debt gained through workarounds or suboptimal solutions, technical debt can delay future development activities and increase the cost of maintenance.
 
 
 Strategies to Overcome The Challenges
+
 Effective communication 
+
 Rapid response approaches
+
 Task sequencing, and continuous reevaluation of the project targets and timelines.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
